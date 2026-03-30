@@ -15,7 +15,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Welcome to Student Management System</h1>
+        <h1>Welcome to Student Portal</h1>
         <p>This system allows students to log in and view their information, and administrators to manage students and courses.</p>
         <div class="links">
             <a href="studentlogin.php">Student Login</a>
